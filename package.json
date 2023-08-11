@@ -1,0 +1,22 @@
+{
+  "name": "practica5_nodejs",
+  "version": "1.0.0",
+  "description": "Nombres ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeferLauver/Practica5_nodejs.git"
+  },
+  "author": "Nefertari Laurel Vergara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeferLauver/Practica5_nodejs/issues"
+  },
+  "homepage": "https://github.com/NeferLauver/Practica5_nodejs#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
